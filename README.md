@@ -2,16 +2,20 @@
 
 This project is a web browser developed in python.
 
-## Getting Started
-
-Install PyQt5 and QtwebEngine
-
 ### Prerequisites
 
 What things you need to install the software and how to install them
 
 ```
 Python 3.7.7
+```
+
+```
+PyQt5
+```
+
+```
+QtwebEngine
 ```
 
 ### Installing
